@@ -1,1 +1,1 @@
-whoami /all
+ipconfig /all
